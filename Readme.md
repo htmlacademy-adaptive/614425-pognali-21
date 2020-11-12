@@ -1,7 +1,7 @@
 # Личный проект «Погнали» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Alexandra Anokhova](https://up.htmlacademy.ru/adaptive/21/user/614425).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Гуляев](https://htmlacademy.ru/profile/dima).
 
 ---
 
